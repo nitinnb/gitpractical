@@ -1,4 +1,6 @@
 
+/* this is a test file which was created for java but also used for putting in git repository*/**************************************************************************
+
 package com.nws.first02march;
 
 public class VarDemo {
